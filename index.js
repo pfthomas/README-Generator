@@ -42,37 +42,36 @@ const questions = [{
 
 const generateReadMe = (data) => {
     return `
-    # ${data.Title}
-    ${data.License}
-    ## Description
-    ${data.Description}
-    # Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributions](#contributions)
-    * [Tests](#tests)
-    * [Questions](#questions)
+# ${data.Title}
+${data.License}
+## Description
+${data.Description}
+# Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributions](#contributions)
+* [Tests](#tests)
+* [Questions](#questions)
 
-    ## Installation
-    To install necessary dependencies, run the following command:
-    ${data.Dependencies}
+## Installation
+To install necessary dependencies, run the following command:
+${data.Dependencies}
 
-    ## Usage
-    ${data.Usage}
+## Usage
+${data.Usage}
 
-    ## License 
-    ${data.License}
-    ## Contributions
-    ${data.Contributions}
+## License 
+${data.License}
+## Contributions
+${data.Contributions}
 
-    ## Tests
-    ${data.Tests}
-    ##Questions 
-    Reach out for questions at:
-    Github: https://github.com/${data.Github}
-    Email: ${data.Email}
-    `
+## Tests
+${data.Tests}
+## Questions 
+Reach out for questions at:
+Github: https://github.com/${data.Github}
+Email: ${data.Email}`
 }
 
 function writeToFile(fileName, data) {
