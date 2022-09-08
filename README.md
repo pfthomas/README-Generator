@@ -3,6 +3,7 @@
 
 ## Description
 Prompts the user for information about their project, then creates a README.md based off the information provided
+
 Video of walkthrough: https://www.youtube.com/watch?v=tnZYE5l20RU
 
 
