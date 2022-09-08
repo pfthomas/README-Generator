@@ -1,7 +1,7 @@
 
-    #README Generator
+    # README Generator
     
-    ##Description
+    ## Description
     Prompts the user for information about their project and creates a README.md file for them to use
     # Table of Contents
     * [Installation](#installation)
@@ -11,21 +11,21 @@
     * [Tests](#tests)
     * [Questions](#questions)
 
-    ##Installation
+    ## Installation
     To install necessary dependencies, run the following command:
     npm i
 
-    ##Usage
+    ## Usage
     It is run through node.js
 
-    ##License 
+    ## License 
     
-    ##Contributions
+    ## Contributions
     N/A
 
-    ##Tests
+    ## Tests
     N/A
-    ##Questions 
+    ## Questions 
     Reach out for questions at:
     Github: https://github.com/pfthomas
     Email: pf.thomas97@gmail.com
