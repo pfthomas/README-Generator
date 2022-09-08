@@ -1,8 +1,8 @@
 
 # README Generator
-    
+
 ## Description
-Prompts the user for information about their project and creates a README.md file for them to use
+Prompts the user for information about their project, then creates a README.md based off the information provided
 # Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -19,14 +19,13 @@ npm i
 It is run through node.js
 
 ## License 
-    
+
 ## Contributions
 N/A
 
 ## Tests
 N/A
-##Questions 
+## Questions 
 Reach out for questions at:
 Github: https://github.com/pfthomas
 Email: pf.thomas97@gmail.com
-    
